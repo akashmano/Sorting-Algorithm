@@ -58,8 +58,10 @@ print(list_of_nums)
 ```
 
 ## Output:
-![Alt text](<Screenshot 2024-01-03 170204.png>)
-![Alt text](<Screenshot 2024-01-03 170216.png>)
+![Screenshot 2024-01-03 170204](https://github.com/akashmano/Sorting-Algorithm/assets/137408306/214eec82-c3dc-44e7-bcbc-7e011c2b76de)
+![Screenshot 2024-01-03 170216](https://github.com/akashmano/Sorting-Algorithm/assets/137408306/7b298570-3ab0-465c-8198-ae2a1ddd9040)
+
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
